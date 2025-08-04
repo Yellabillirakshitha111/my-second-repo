@@ -1,0 +1,3 @@
+my name is Rakshitha
+studying in BCA 
+github a web based that uses git,the open source version control software that lets multiple people make separate changes to web pages at the same time.
